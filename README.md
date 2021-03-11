@@ -1,1 +1,1 @@
-# demo-jpa-binus-2021
+# binus2021
